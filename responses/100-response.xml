@@ -1,0 +1,8 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://www.webservicex.net/CurrencyConvertor.asmx" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Header/>
+      <soap:Body>
+      <web:ConversionRateResponse>
+         <web:ConversionRateResult>100</web:ConversionRateResult>
+      </web:ConversionRateResponse>
+   </soap:Body>
+</soap:Envelope>
